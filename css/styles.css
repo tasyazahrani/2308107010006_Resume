@@ -1,0 +1,70 @@
+html, body, h1, h2, h3, h4, h5, h6 {
+    font-family: "Quicksand", sans-serif;
+  }
+  
+  body {
+    background-color: #fff0f5;
+  }
+  
+  .w3-pink {
+    background-color: #ff9cb4 !important;
+  }
+  
+  .w3-text-pink {
+    color: #ff6b9c !important;
+  }
+  
+  .w3-light-pink {
+    background-color: #ffe0e9 !important;
+  }
+  
+  .w3-hover-pink:hover {
+    background-color: #ff6b9c !important;
+    color: white !important;
+  }
+  
+  .skill-bar {
+    background-color: #ff6b9c !important;
+    color: white;
+  }
+  
+  .cute-icon {
+    border-radius: 50%;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: transform 0.3s;
+  }
+  
+  .cute-icon:hover {
+    transform: scale(1.2);
+  }
+  
+  .profile-img {
+    border-radius: 15px;
+    border: 5px solid white;
+    box-shadow: 0 5px 15px rgba(255, 107, 156, 0.3);
+  }
+  
+  .social-footer i {
+    font-size: 20px;
+    margin: 0 10px;
+    transition: transform 0.3s;
+  }
+  
+  .social-footer i:hover {
+    transform: translateY(-5px);
+  }
+  
+  .w3-card {
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(255, 107, 156, 0.2) !important;
+  }
+  
+  .section-title {
+    border-left: 5px solid #ff6b9c;
+    padding-left: 15px;
+  }
+  
+  .cute-badge {
+    border-radius: 20px;
+    padding: 5px 10px;
+  }
